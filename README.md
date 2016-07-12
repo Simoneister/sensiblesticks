@@ -19,6 +19,11 @@ This software assumes energies of less than 10'000eV.
 
 Sticks may not (and probably won't be) fully sorted (the unique Z sticks will appear in order last), but that's easily fixed in Excel. This is the least sensible bit.
 
+##Version history
+
+- 0.1
+  - 2016-07-13 First version, it works well enough for now
+
 ##Author
 
 - Simon Lee
