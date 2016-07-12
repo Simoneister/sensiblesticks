@@ -6,10 +6,10 @@ sensiblesticks converts CTM4XAS's stick output in to something a little more sen
 
 ##Instructions
 
-Step 1: Rename the sticks file (or a copy) to "sticks.txt"
-Step 2: Place it in the same directory as sensiblesticks.exe
-Step 3: Run sensiblesticks.exe
-Step 4: sticksoutput.txt should appear
+- Step 1: Rename the sticks file (or a copy) to "sticks.txt"
+- Step 2: Place it in the same directory as sensiblesticks.exe
+- Step 3: Run sensiblesticks.exe
+- Step 4: sticksoutput.txt should appear
 
 ##Description
 
