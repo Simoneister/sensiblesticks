@@ -21,8 +21,12 @@ Sticks may not (and probably won't be) fully sorted (the unique Z sticks will ap
 
 ##Author
 
-Simon Lee
+-Simon Lee
+-simon.lee@flinders.edu.au
+-@simoneister
 
-simon.lee@flinders.edu.au
+##Lisence
 
-@simoneister
+GNU GPLv3
+
+Because why not
