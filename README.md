@@ -22,5 +22,7 @@ Sticks may not (and probably won't be) fully sorted (the unique Z sticks will ap
 ##Author
 
 Simon Lee
+
 simon.lee@flinders.edu.au
+
 @simoneister
